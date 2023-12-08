@@ -296,7 +296,7 @@ print('Separation:',POSITION,Suma_var)
 # Saved Results
 
 
-Separation: 3.6 2.298161140   Ranked k1
+Separation: 3.6 #2.298161140   Ranked k1
 
 
 # # Procedure for Automatic Generation
@@ -354,17 +354,17 @@ for Pos in [2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 3.0]:
 
 # RESULTS
 # with 15+15+15.  45 Patients
-4 Repetitions
-
-RESULT 2.2 1 from  4 prob_first:  25.0 
-RESULT 2.3 1 from  4 prob_first:  25.0
-RESULT 2.4 0 from  4 prob_first:  0.0
-RESULT 2.5 1 from  4 prob_first:  25.0
-RESULT 2.6 0 from  4 prob_first:  0.0
-RESULT 2.7 2 from  4 prob_first:  50.0
-RESULT 2.8 2 from  4 prob_first:  50.0
-RESULT 2.9 2 from  4 prob_first:  50.0
-RESULT 3.0 4 from  4 prob_first:  100.0
+#4 Repetitions
+#
+#RESULT 2.2 1 from  4 prob_first:  25.0
+#RESULT 2.3 1 from  4 prob_first:  25.0
+#RESULT 2.4 0 from  4 prob_first:  0.0
+#RESULT 2.5 1 from  4 prob_first:  25.0
+#RESULT 2.6 0 from  4 prob_first:  0.0
+#RESULT 2.7 2 from  4 prob_first:  50.0
+#RESULT 2.8 2 from  4 prob_first:  50.0
+#RESULT 2.9 2 from  4 prob_first:  50.0
+#RESULT 3.0 4 from  4 prob_first:  100.0
 # ## Calculation with 100 repetitions
 
 # In[20]:
@@ -403,22 +403,22 @@ for Pos in [2.2, 2.3, 2.4]:
 
 
 # ### Summary of all results with 500 Repetitions
-500 Repeticions
-
-RESULT 2.2 15 from  500 prob_first:  3.0
-RESULT 2.3 25 from  500 prob_first:  5.0
-RESULT 2.4 50 from  500 prob_first:  10.0
-RESULT 2.5 75 from  500 prob_first:  15.0
-RESULT 2.6 107 from  500 prob_first:  21.4
-RESULT 2.7 195 from  500 prob_first:  39.0
-RESULT 2.8 223 from  500 prob_first:  44.6
-RESULT 2.9 298 from  500 prob_first:  59.6
-RESULT 3.0 376 from  500 prob_first:  75.2
-RESULT 3.1 403 from  500 prob_first:  80.6
-RESULT 3.2 435 from  500 prob_first:  87.0
-RESULT 3.3 474 from  500 prob_first:  94.8
-RESULT 3.4 482 from  500 prob_first:  96.4
-RESULT 3.5 494 from  500 prob_first:  98.8
+#500 Repeticions
+#
+#RESULT 2.2 15 from  500 prob_first:  3.0
+#RESULT 2.3 25 from  500 prob_first:  5.0
+#RESULT 2.4 50 from  500 prob_first:  10.0
+#RESULT 2.5 75 from  500 prob_first:  15.0
+#RESULT 2.6 107 from  500 prob_first:  21.4
+#RESULT 2.7 195 from  500 prob_first:  39.0
+#RESULT 2.8 223 from  500 prob_first:  44.6
+#RESULT 2.9 298 from  500 prob_first:  59.6
+#RESULT 3.0 376 from  500 prob_first:  75.2
+#RESULT 3.1 403 from  500 prob_first:  80.6
+#RESULT 3.2 435 from  500 prob_first:  87.0
+#RESULT 3.3 474 from  500 prob_first:  94.8
+#RESULT 3.4 482 from  500 prob_first:  96.4
+#RESULT 3.5 494 from  500 prob_first:  98.8
 # In[ ]:
 
 
